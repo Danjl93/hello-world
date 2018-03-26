@@ -1,6 +1,6 @@
 # hello-world
 
-<img src="pulpitrock.jpg" alt="Mountain View">
+<img src="test1.png." alt="Mountain View">
 Hello World!
 
 
